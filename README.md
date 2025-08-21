@@ -93,4 +93,3 @@ GET /subscriptions/{id} → Get subscription details
 PUT /subscriptions/{id} → Update subscription
 
 DELETE /subscriptions/{id} → Cancel subscription
->>>>>>> cee9e6b25038e2bd75e2ade2cf02de9a3b9fb436
